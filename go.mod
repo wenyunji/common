@@ -1,4 +1,4 @@
-module gitee.com/w5681688/common
+module github.com/wenyunji/common
 
 go 1.16
 
